@@ -10,3 +10,9 @@ models/
 *.parquet
 *.pkl
 *.ipynb_checkpoints/
+
+# Large data
+2019-Oct.csv
+/data/
+*.parquet
+*.pkl
