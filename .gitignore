@@ -4,3 +4,9 @@ models/
 *.parquet
 *.pkl
 *.ipynb_checkpoints/
+data/
+models/
+*.csv
+*.parquet
+*.pkl
+*.ipynb_checkpoints/
