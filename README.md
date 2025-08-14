@@ -1,1 +1,1 @@
-# ecommerce-trend-ml
+In this prediction model, I used a kaggle dataset of over 2 million logged entries from users on a e-commerce website, engineered numerous specific features, and trained a XGBoost model to achieve a F1-score of 0.74.
